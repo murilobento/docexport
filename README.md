@@ -2,7 +2,7 @@
 
 ## Configurações iniciais
 - Cadastro da empresa:
-- Dados básicos: CNPJ, inscrição estadual, razão social, nome fantasia, endereço completo, e###mail, 2 contatos telefônicos, logotipo;
+- Dados básicos: CNPJ, inscrição estadual, razão social, nome fantasia, endereço completo, e-mail, 2 contatos telefônicos, logotipo;
 - Dados fiscais e contábeis, CNAE, NIRE, Regime, Incentivador Cultural sim ou não, Regime de apuração fiscal, órgão de registro, regime especial de tributação);
 - PIS/COFINS, método apuração, código do método de apuração, CST saídas, CST entradas, alíquota PIS, alíquota COFINS; 
 - Dados do contador (nome, CRC e CNPJ ou CPF);
