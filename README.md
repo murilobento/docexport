@@ -29,7 +29,7 @@
 - Controle de patrimônio da empresa por tipo (ativo imobilizado, veículo);
 - Correção de estoque (acerto de estoque, contagem de estoque e inventário);
 - Consulta de movimentação de estoque.
-- Relatórios ().
+- Relatórios (básicos a principio, preciso me aprofundar primeiro para gerar relatórios mais eficazes).
 
 ## Módulo Comercial
 - Cadastro de clientes e fornecedores;
@@ -39,7 +39,7 @@
 - Gerar vendas (que gere contas a receber) e invoice (proforma);
 - Gerar orçamentos (não interfere no contas a pagar, nem em estoque);
 - Gerar nota fiscal a partir de uma venda, ou emitir manualmente (podendo também cancelar ou inutilizar a mesma);
-- Relatórios ().
+- Relatórios (básicos a principio, preciso me aprofundar primeiro para gerar relatórios mais eficazes).
 
 ## Módulo Financeiro
 - Cadastro de bancos e agências;
@@ -52,4 +52,4 @@
 - Controlar os pagamentos aos fornecedores (permitirá o registro, acompanhamento e gestão eficiente dos pagamentos e saldos de cada fornecedor, automatizando cálculos e fornecendo visibilidade clara da situação financeira com cada parceiro comercial);
 - Contas a pagar e receber (o lançamento pode ser a partir de uma NF ou cupom já emitidos com importação por XML, ou manualmente);
 - Baixar uma conta (a pagar, a receber ou pagamento a fornecedor) paga/quitada;
-- Relatórios ().
+- Relatórios (básicos a principio, preciso me aprofundar primeiro para gerar relatórios mais eficazes).
