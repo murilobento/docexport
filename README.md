@@ -1,4 +1,4 @@
-# NOVA SISTEMA DOCEXPORT
+# SISTEMA DOCEXPORT
 
 ## Configurações iniciais
 - Cadastro da empresa:
