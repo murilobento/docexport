@@ -50,7 +50,7 @@
 - Cadastro de plano de contas. (Estabelece uma estrutura hierárquica para classificar todas as contas contábeis da empresa divididos em: ativos, passivos, receitas, despesas e patrimônio líquido);
 - Cadastro de funcionários (para controlar folha salarial);
 - Controlar as despesas;
-- Controlar os pagamentos aos fornecedores ();
+- Controlar os pagamentos aos fornecedores (permitirá o registro, acompanhamento e gestão eficiente dos pagamentos e saldos de cada fornecedor, automatizando cálculos e fornecendo visibilidade clara da situação financeira com cada parceiro comercial);
 - Contas a pagar e receber (o lançamento pode ser a partir de uma NF ou cupom já emitidos com importação por XML, ou manualmente);
 - Baixar uma conta (a pagar, a receber ou pagamento a fornecedor) paga/quitada;
 - Relatórios ().
