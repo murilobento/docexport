@@ -8,7 +8,6 @@
 - Dados do contador (nome, CRC e CNPJ ou CPF);
 - Dados bancários principais.
 
-
 ## Autenticação
 - Autenticação completa com login, esqueceu sua senha (redefinir por e-mail);
 - Perfil de acesso (usuário comum ou admin) para controlar quais rotas ou páginas cada nível pode acessar no sistema. 
